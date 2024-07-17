@@ -1,0 +1,9 @@
+{
+  "name": "help-meninos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.13.0"
+  }
+}
